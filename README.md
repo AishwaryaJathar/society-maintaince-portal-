@@ -1,4 +1,4 @@
-# PHP-Society-maintenance-portal-web-app
+# Society-maintenance-portal-web-app
 
 ***Abstract***
 
